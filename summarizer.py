@@ -14,7 +14,7 @@ logger = logging.getLogger("VaultFetch.AI")
 # ─── Grok API Config ───────────────────────────────────────────────────────────
 GROK_API_URL = "https://api.x.ai/v1/chat/completions"
 GROK_MODEL   = "grok-3"  # or "grok-2" — change if needed
-GROK_API_KEY = "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"  # 🔑 Grok API Key
+GROK_API_KEY = "Your_grok_api_key"  # 🔑 Grok API Key
 
 
 # ══════════════════════════════════════════════════════════════════════════════
